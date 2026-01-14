@@ -8,6 +8,8 @@ This is a simple React app that displays a list of items.
 - React
 - Vite
 - CSS
+## 🔹 Live Demo
+👉 (https://klinti13.github.io/First-React-Project/)
 
 
 
