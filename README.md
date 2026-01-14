@@ -7,9 +7,7 @@ This is a simple React app that displays a list of items.
 ## Tech Stack
 - React
 - Vite
-- Tailwind CSS
-
-## Getting Started
+- CSS
 
 
 
